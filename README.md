@@ -1,4 +1,4 @@
-# Hi 👋, I'm TheBinaryGuy
+# Hi 👋, I'm TheBinaryGuy!
 
 ### I'm passionate about privacy and open source.
 
