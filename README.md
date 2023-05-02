@@ -6,5 +6,14 @@
 - 🌱 Learning [Rust](https://www.rust-lang.org/) 🦀
 - 📫 Reach me at hello@thebinary.dev
 
-![Stats](https://readme-stats.thebinary.dev/api?username=TheBinaryGuy&count_private=true&show_icons=true&theme=tokyonight#gh-dark-mode-only)
-![Stats](https://readme-stats.thebinary.dev/api?username=TheBinaryGuy&count_private=true&show_icons=true&theme=default#gh-light-mode-only)
+<picture>
+<source
+  srcset="https://readme-stats.thebinary.dev/api?username=TheBinaryGuy&count_private=true&show_icons=true&theme=tokyonight"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://readme-stats.thebinary.dev/api?username=TheBinaryGuy&count_private=true&show_icons=true&theme=default"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://readme-stats.thebinary.dev/api?username=TheBinaryGuy&count_private=true&show_icons=true&theme=tokyonight" />
+</picture>
