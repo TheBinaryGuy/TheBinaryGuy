@@ -1,4 +1,5 @@
-# Hey 👋 I'm TheBinaryGuy or 81NARY!
+# Hey 👋 I'm TheBinaryGuy!
+> I also go by 81NARY or Heet ;)
 
 ### I'm passionate about privacy and open source.
 
