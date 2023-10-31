@@ -1,4 +1,4 @@
-# Hey 👋, I'm 81NARY!
+# Hey 👋 I'm TheBinaryGuy or 81NARY!
 
 ### I'm passionate about privacy and open source.
 
