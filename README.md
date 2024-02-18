@@ -3,7 +3,7 @@
 
 ### I'm passionate about privacy and open source.
 
-- 🔭 Working on [Hushify](https://github.com/Hushify) and [SentientBox](https://sentientbox.com)
+- 🔭 Working on [HushOS](https://github.com/HushOS)
 - 🌱 Learning [Rust](https://www.rust-lang.org/) 🦀
 - 📫 Reach me at hello@thebinary.dev
 
