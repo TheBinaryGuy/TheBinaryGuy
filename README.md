@@ -5,4 +5,3 @@
 
 - 🔭 Working on [HushOS](https://github.com/HushOS)
 - 🌱 Learning [Rust](https://www.rust-lang.org/) 🦀
-- 📫 Reach me at hello@thebinary.dev
